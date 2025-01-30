@@ -177,5 +177,5 @@ print(nums.items())
 print("I'm akhil and I'm a software engineer")
 print("I'm learniing git and github")
 print("I'm trying my best to learn git and github")
-
+print("Keep pushing forward, no matter how tough it gets. Success is just around the corner!")
 
